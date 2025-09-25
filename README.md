@@ -1,16 +1,26 @@
-### Hi there 👋
+---
 
-<!--
-**wenfin/wenfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola, soy Antonio!
 
-Here are some ideas to get you started:
+ **Backend Developer** con formación en **Administración de Sistemas Informáticos en Red (ASIR)** y **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+ Actualmente **buscando oportunidades laborales** para crecer como desarrollador.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y herramientas
+
+* **Lenguajes:** Python, Java, PHP
+* **Frameworks:** Django, React
+* **Bases de datos:** MySQL, PostgreSQL
+* **Otros:** Git, Docker, Linux, APIs REST, AWS
+
+---
+
+##  Contacto
+
+* Email: **antoniojgo1499@gmail.com**
+* [LinkedIn](https://www.linkedin.com/in/antonio-jesus-gomez-osorio/)
+* [GitHub](https://github.com/agomoso-dev)
+
+---
+
+
