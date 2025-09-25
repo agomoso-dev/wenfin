@@ -3,6 +3,7 @@
 
  **Backend Developer** con formación en **Administración de Sistemas Informáticos en Red (ASIR)** y **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
  Actualmente **buscando oportunidades laborales** para crecer como desarrollador.
+ 
 ---
 
 ## Tecnologías y herramientas
