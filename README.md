@@ -17,9 +17,9 @@
 
 ## Proyectos destacados
 
-* **Comidamind:** Proyecto más grande y avanzado. Plataforma web para planificación de comidas con integración de **LLM**, **Docker**, **Django**, **React** y **FastAPI**.  
-* **GameBreakout:** Juego clásico de tipo breakout desarrollado con Java.  
-* **CHAT_P2P:** Aplicación de chat peer-to-peer en tiempo real usando Python y sockets(su nombre Whatsblue).  
+* **Comidamind:** Proyecto de automatización de dietas, desarrollado en **LLM**, **Docker**, **Django**, **React** y **FastAPI**.  
+* **GameBreakout:** Juego clásico de tipo breakout desarrollado con **Java**.  
+* **Whatsblue:** Aplicación de chat peer-to-peer en tiempo real usando **Java** y sockets.  
 
 ---
 ##  Contacto
